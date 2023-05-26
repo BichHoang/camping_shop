@@ -1,0 +1,2 @@
+class SpreePrice < ApplicationRecord
+end
